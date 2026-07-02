@@ -10,8 +10,8 @@ This repository showcases the professional certifications I've earned to strengt
 
 | Certification | Platform | Instructor |
 |---------------|----------|------------|
-| Learn Selenium with Java, Cucumber & Frameworks | Udemy | Pavan Kumar |
-| Learn API Testing using Postman, SoapUI & RestAssured | Udemy | Pavan Kumar |
+| Learn Selenium with Java, Cucumber & Frameworks | **Udemy** | Pavan Kumar |
+| Learn API Testing using Postman, SoapUI & RestAssured | **Udemy** | Pavan Kumar |
 
 ---
 
@@ -52,7 +52,7 @@ I actively invest in expanding my knowledge of automation testing, API testing, 
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/sasikumar-pichairaj/
+- **LinkedIn:** https://www.linkedin.com/in/sasikumar-pichairaj
 - **Email:** sasikumar2300@gmail.com
 
 ---
