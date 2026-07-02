@@ -8,26 +8,10 @@ This repository showcases the professional certifications I've earned to strengt
 
 ## 📜 Certifications
 
-| Certification | Platform | Instructor | Completion Date |
-|---------------|----------|------------|-----------------|
-| Learn Selenium with Java, Cucumber & Frameworks | Udemy | Pavan Kumar | December 2025 |
-| Learn API Testing using Postman, SoapUI & RestAssured | Udemy | Pavan Kumar | May 2026 |
-
----
-
-## 📂 Repository Structure
-
-```text
-Certifications/
-│
-├── Selenium/
-│   └── Selenium with Java- Certificate.pdf
-│
-├── API Testing/
-│   └── API Testing using Postman, SoapUI & RestAssured - Certificate.pdf
-│
-└── README.md
-```
+| Certification | Platform | Instructor |
+|---------------|----------|------------|
+| Learn Selenium with Java, Cucumber & Frameworks | Udemy | Pavan Kumar |
+| Learn API Testing using Postman, SoapUI & RestAssured | Udemy | Pavan Kumar |
 
 ---
 
@@ -60,26 +44,15 @@ Certifications/
 
 ---
 
-## 🎯 Learning Philosophy
+## 🎯 Continuous Learning
 
-I believe continuous learning is essential in the fast-evolving software testing industry. These certifications have helped me strengthen my knowledge in automation testing, API validation, framework design, and modern QA best practices.
-
----
-
-## 🚀 Career Focus
-
-- UI Automation Testing
-- API Automation Testing
-- Automation Framework Development
-- Continuous Integration (CI/CD)
-- Software Quality Engineering
+I actively invest in expanding my knowledge of automation testing, API testing, and software quality engineering to stay current with industry best practices.
 
 ---
 
 ## 📫 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/sasikumar-pichairaj/
-- **GitHub:** https://github.com/Sasikumar411
 - **Email:** sasikumar2300@gmail.com
 
 ---
